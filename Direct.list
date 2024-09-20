@@ -27,6 +27,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 # 自己常用的
 DOMAIN-SUFFIX,hubstudio.vip
 DOMAIN-SUFFIX,liblib.cloud
+DOMAIN-SUFFIX,made-in-china.com
 
 # 360
 DOMAIN-SUFFIX,360.com
