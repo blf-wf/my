@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD.whatsapp
+DOMAIN-KEYWORD.linkedin
 # 域名后缀匹配
 DOMAIN-KEYWORD,hf.co
 DOMAIN-KEYWORD,91porn.com
