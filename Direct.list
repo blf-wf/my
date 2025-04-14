@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,liblib
 DOMAIN-KEYWORD,hf-mirror
 DOMAIN-KEYWORD,quickconnect
+DOMAIN-KEYWORD,ozon
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
